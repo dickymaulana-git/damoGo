@@ -7,5 +7,7 @@ export default {
     box1: '#FFF2DE',
     box2: '#DAFFD9',
     hijau: '#009673',
-    signout: '#FF4A4A'
+    signout: '#FF4A4A',
+    btnBg: '#F4F4F4',
+    hariUnactive : '#EDEDED'
 }
